@@ -1,4 +1,4 @@
-# Healthcare AI – Lab Report Disease Prediction
+# mediscan AI – Lab Report Disease Prediction
 
 An AI-powered healthcare application that extracts laboratory values from medical reports using OCR and predicts the risk of multiple diseases using Machine Learning.
 
@@ -60,7 +60,7 @@ An AI-powered healthcare application that extracts laboratory values from medica
 ### Clone Repository
 
 ```bash
-git clone https://github.com/uniyalswayam6912-alt/AI-lab-report-disease-prediction.git
+git clone :https://github.com/shamisthabisht/shamisthabisht_Mediscan-AI.git
 
 cd AI-lab-report-disease-prediction
 ```
@@ -105,4 +105,3 @@ This project is intended for educational purposes only. The predictions generate
 **Shamistha bisht**
 
 - GitHub:https://github.com/shamisthabisht/shamisthabisht_Mediscan-AI
-- LinkedIn: https://www.linkedin.com/in/swayam-uniyal-0935b6312/
