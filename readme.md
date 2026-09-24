@@ -102,7 +102,7 @@ This project is intended for educational purposes only. The predictions generate
 
 ## Author
 
-**Swayam Uniyal**
+**Shamistha bisht**
 
-- GitHub: https://github.com/uniyalswayam6912-alt
+- GitHub:https://github.com/shamisthabisht/shamisthabisht_Mediscan-AI
 - LinkedIn: https://www.linkedin.com/in/swayam-uniyal-0935b6312/
